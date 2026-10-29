@@ -3,7 +3,7 @@ orthophotos:
   - "data/7-123-10-08.tif"
 buildings_vector: "data/budynki_bdot10k.gpkg"
 buildings_layer: null
-output_dir: "outputs_w/bdot_roofs"
+output_dir: "outputs/bdot_roofs"
 
 # Raster bands are 1-based. Typical RGB GeoTIFF: [1, 2, 3].
 bands: [1, 2, 3]
