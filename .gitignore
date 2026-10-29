@@ -1,0 +1,9 @@
+__pycache__/
+*.py[cod]
+.venv/
+outputs/
+outputs_w/
+outputs0/
+outputs2/
+data/
+*.pt
